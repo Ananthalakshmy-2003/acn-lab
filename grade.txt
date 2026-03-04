@@ -1,0 +1,3 @@
+anu,90
+gayu,60
+allu,70
